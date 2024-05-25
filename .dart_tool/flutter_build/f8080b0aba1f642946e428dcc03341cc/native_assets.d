@@ -1,0 +1,1 @@
+ C:\\Users\\Waly\\StudioProjects\\hemmx_bloc\\.dart_tool\\flutter_build\\f8080b0aba1f642946e428dcc03341cc\\native_assets.yaml: 
