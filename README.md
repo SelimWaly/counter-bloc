@@ -1,6 +1,6 @@
 # hemmx_bloc
 
-Testing project for the blox package; specifically cubit.
+Testing project for the bloc package; specifically cubit.
 
 ## Getting Started
 
